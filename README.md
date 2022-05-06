@@ -52,6 +52,8 @@
 
 [PyTorch Image Classification](https://github.com/bentrevett/pytorch-image-classification)
 
+[pytorch](https://web.cs.ucdavis.edu/~yjlee/teaching/ecs289g-winter2018/Pytorch_Tutorial.pdf)
+
 ## Computer Vision 
 
 [Object Recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
@@ -66,6 +68,18 @@
 
 [Exploring GAN latent space](https://machinelearningmastery.com/how-to-interpolate-and-perform-vector-arithmetic-with-faces-using-a-generative-adversarial-network/)
 
+[Computer Vision PLaylist](https://www.youtube.com/watch?v=pGjwHzAnNR0&list=PL9zwIsRmNEiIG0fffHf9IOEdtJs6FvQOF&index=1)
+
+[Computer Vision](https://www.youtube.com/watch?v=af4MGM5MhOg&list=PL9zwIsRmNEiIG0fffHf9IOEdtJs6FvQOF&index=15)
+
+[Computer Vision-utexas](https://vision.cs.utexas.edu/376-spring2018/)
+
+[Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+[AI Summer](https://theaisummer.com/computer-vision-resources/)
+
+[Computer Visiob lecture](https://www.youtube.com/playlist?list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
+
 
 ## Courses
 
@@ -76,6 +90,10 @@
 [Applied Deep Learning](https://github.com/maziarraissi/Applied-Deep-Learning)
 
 [Convolutional Neural Networks For Visual Recognition](https://cs231n.github.io/convolutional-networks/#fc)
+
+[Deep learning playlist](https://www.youtube.com/watch?v=Bn_jRbQcmV4&list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
+
+[Deep Learning from scratch](https://www.youtube.com/watch?v=YfsYKqTQf7M&list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U&index=49)
 
 
 ## CNN
@@ -134,11 +152,25 @@
 
 [Deep Learning playlist](https://www.youtube.com/watch?v=l16RxAmP9QE&list=PLdxQ7SoCLQAMeMPpRvqXJjBSmKey0SdlH)
 
+[GAN](https://blog.zakjost.com/tags/generative-adversarial-networks/)
+
+[MATLAB intro](https://vision.cs.utexas.edu/376-spring2018/assignments/a0/matlab.pdf)
+
+[3BLUE1BROWN](https://www.3blue1brown.com/)
+
 ## Papers
 
 [Why Are Deep Representations Good Perceptual Quality Features?](https://arxiv.org/pdf/1812.00412.pdf)
 
 [DL papers list](https://github.com/SubhadityaMukherjee/DLPapers)
+
+[Recent Advances in Convolutional Neural Networks](https://arxiv.org/pdf/1512.07108.pdf)
+
+[The Unreasonable Effectiveness of Deep Features as a Perceptual Metric](https://arxiv.org/pdf/1801.03924.pdf)
+
+[Deep Image Quality Assessment](https://towardsdatascience.com/deep-image-quality-assessment-30ad71641fac)
+
+[Statistics of Natural Images](https://www.tandfonline.com/doi/pdf/10.1088/0954-898X_5_4_006)
 
 
 ## Books
@@ -146,4 +178,12 @@
 [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 
 [Model Based Imaging](https://engineering.purdue.edu/~bouman/publications/pdf/MBIP-book.pdf)
+
+[Programming Computer Vision with Python by Jan Erik Solem](https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html)
+
+[Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+
+[Deep Learning](https://www.deeplearningbook.org/)
+
+[Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
 
