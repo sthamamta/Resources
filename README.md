@@ -21,6 +21,8 @@
 
 [Learning from Data](https://work.caltech.edu/telecourse)
 
+[Ridge and Lasso: visualizing the optimal solutions](https://xavierbourretsicotte.github.io/ridge_lasso_visual.html)
+
 ## Python
 [Python Backtracking](https://www.tutorialspoint.com/python_data_structure/python_backtracking.htm)
 
@@ -54,6 +56,8 @@
 
 [pytorch](https://web.cs.ucdavis.edu/~yjlee/teaching/ecs289g-winter2018/Pytorch_Tutorial.pdf)
 
+[Visualising the PyTorch Compute Graph for Bug Fixing](https://benjamin-computer.medium.com/visualising-the-pytorch-compute-graph-for-bug-fixing-aa131324f34e)
+
 ## Computer Vision 
 
 [Object Recognition](https://lilianweng.github.io/posts/2017-10-29-object-recognition-part-1/)
@@ -80,6 +84,7 @@
 
 [Computer Visiob lecture](https://www.youtube.com/playlist?list=PL7v9EfkjLswLfjcI-qia-Z-e3ntl9l6vp)
 
+[Deep Learning for Computer Vision](http://cs231n.stanford.edu/schedule.html)
 
 ## Courses
 
@@ -94,6 +99,18 @@
 [Deep learning playlist](https://www.youtube.com/watch?v=Bn_jRbQcmV4&list=PLdxQ7SoCLQANQ9fQcJ0wnnTzkFsJHlWEj)
 
 [Deep Learning from scratch](https://www.youtube.com/watch?v=YfsYKqTQf7M&list=PLtCBuHKmdxOdO88sgcFyDdL5ATg1WY-_U&index=49)
+
+[Computer Vision -colorado](https://cs-courses.mines.edu/csci508/schedule/)
+
+[CMU-Computer Vision Course](https://www.cs.cmu.edu/~16385/s17/)
+
+[EE290T, Fall 2019 - Advanced Topics in Signal Processing:3D Image Processing and Computer Vision](https://inst.eecs.berkeley.edu/~ee290t/fa19/)
+
+[Computer Vision-Columbia University](https://fpcv.cs.columbia.edu/)
+
+[Computer Vision -rutgers](https://people.cs.rutgers.edu/~elgammal/classes/cs534/materials.htm)
+
+[Computer Vision: from 3D reconstruction to recognition-Standford](https://cvgl.stanford.edu/teaching/cs231a_winter1415/)
 
 
 ## CNN
@@ -117,12 +134,18 @@
 [Deconvolution](https://distill.pub/2016/deconv-checkerboard/)
 
 
-
 ## Optimization
 [Standford Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/)
 
 [Optimization Techniques for Image Processing](https://scholarworks.uno.edu/cgi/viewcontent.cgi?article=1130&context=honors_theses)
 
+[Optimization Methods](https://www.youtube.com/watch?v=nWFkBd-w4Hg&list=PLyH8drkPF8JFFLqouQ5c4gAhMIAYoXfUp)
+
+[Optimization course](https://sites.google.com/site/michaelzibulevsky/optimization-course)
+
+[Mathematical Optimization-PLaylist](https://www.youtube.com/watch?v=z64cXTZKw4I&list=PLYaCCH_3sfS333yOo5wGlq8lFnLKzf17P)
+
+[Estimator](https://www.robots.ox.ac.uk/~az/lectures/est/lect34.pdf)
 
 ## Maths
 [Introduction to Probability](https://learning.edx.org/course/course-v1:HarvardX+STAT110x+2T2021/home)
@@ -141,6 +164,14 @@
 
 [MLE Example](https://www.youtube.com/watch?v=BFHGIE-nwME)
 
+[Probability](http://julio.staff.ipb.ac.id/files/2015/02/Ross_8th_ed_English.pdf)
+
+[Probability Course](https://www.probabilitycourse.com/chapter9/9_1_2_MAP_estimation.php)
+
+[The Matrix Calculus For Deep Learning](https://explained.ai/matrix-calculus/index.html)
+
+[Statistical Modeling and Analysis of Neural Data](http://pillowlab.princeton.edu/teaching/statneuro2018/slides/notes11_MAPinference.pdf)
+
 ## Others
 [Fast AI Course](https://course.fast.ai/videos/?lesson=1)
 
@@ -157,6 +188,12 @@
 [MATLAB intro](https://vision.cs.utexas.edu/376-spring2018/assignments/a0/matlab.pdf)
 
 [3BLUE1BROWN](https://www.3blue1brown.com/)
+
+[Generative Learning algorithms](https://cs229.stanford.edu/notes2021fall/cs229-notes2.pdf)
+
+[Youtube](https://www.youtube.com/channel/UCpCSAcbqs-sjEVfk_hMfY9w)
+
+[Medium](https://medium.com/@sho.jp)
 
 ## Papers
 
@@ -186,4 +223,6 @@
 [Deep Learning](https://www.deeplearningbook.org/)
 
 [Dive into Deep Learning](https://d2l.ai/chapter_introduction/index.html)
+
+[Computer vision:models, learning and inference](http://web4.cs.ucl.ac.uk/staff/s.prince/book/book.pdf)
 
